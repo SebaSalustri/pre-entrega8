@@ -1,0 +1,20 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Base de datos generada
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Configuracion local
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
